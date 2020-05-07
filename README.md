@@ -5,7 +5,7 @@ Lets your PocketMine-MP server to have infinite slots for players.
 1. Download the .phar file from the release section
 2. Drop it in to /plugins directory as usual
 3. Restart the server
-Boom. You have it.
+4. Boom. You have it.
 
 # Disaclaimer
 ```
