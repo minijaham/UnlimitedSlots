@@ -4,5 +4,6 @@ branches:
 - master
 projects:
   UnlimitedSlots:
-    path: "meta/infinity.png"
+    path: ""
+    icon: meta/infinity.png
 ...
