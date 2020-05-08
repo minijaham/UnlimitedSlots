@@ -1,5 +1,5 @@
 name: UnlimitedSlots
-api: 3.12.0
+api: [3.0.0, 4.0.0]
 version: 1.0
 author: minijaham
 main: minijaham\UnlimitedSlots\Main
