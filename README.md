@@ -1,6 +1,7 @@
 # UnlimitedSlots
 Lets your PocketMine-MP server to have infinite slots for players.
 
+*Note: It only changes the display count. Please note that server will still kick players if there were more than max player count specified in server.properties.
 # How-to install
 1. Download the .phar file from the release section
 2. Drop it in to /plugins directory as usual
